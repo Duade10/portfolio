@@ -21,7 +21,7 @@ This is a portfolio site built with Django and Django REST Framework, allowing u
 ## Installation
 
 1. Clone the repository: 
-    > git clone https://github.com/your-username/portfolio-site.git
+    > git clone [https://github.com/your-username/portfolio-site.git](https://github.com/Duade10/portfolio.git)
 2. Navigate to the project directory:
     > cd portfolio-site
 3. Create a virtual environment and activate it:
